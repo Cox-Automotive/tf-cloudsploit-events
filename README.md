@@ -10,7 +10,7 @@ This repo is used for configuring the AWS services to support [CloudSploit](http
 
 ## Modules
 
-### aws-cloudsploit-events module
+### aws-cloudsploit-events
 
 This module creates the necessary AWS resources to forward real-time events to CloudSploit. This module configures the following resources:
 
