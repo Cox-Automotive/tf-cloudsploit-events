@@ -5,7 +5,6 @@ This repo is used for configuring the AWS services to support [CloudSploit](http
 ## Requirements
 
 - [Terraform](https://www.terraform.io/)
-- [Terragrunt](https://github.com/gruntwork-io/terragrunt)
 - AWS account access to create SNS topic, topic policy, topic subscription, and CloudWatch event rules.
 
 ## Modules
