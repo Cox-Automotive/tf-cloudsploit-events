@@ -2,6 +2,14 @@ CloudSploit Events via Terraform
 =================
 This repo is used for configuring the AWS services to support [CloudSploit](https://cloudsploit.com/events) real-time events.
 
+```
+└── tf-cloudsploit-events
+    ├── aws-cloudsploit-events
+    │   ├── main.tf
+    │   ├── outputs.tf
+    │   ├── variables.tf
+```
+
 ## Requirements
 
 - [Terraform](https://www.terraform.io/)
